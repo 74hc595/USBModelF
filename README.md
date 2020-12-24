@@ -17,6 +17,7 @@ You must select Keyboard from the "Tools > USB Type" menu.
 | 4 (VCC)        | Vin             |
 | 5 (RESET)      | (not connected) |
 
+No additional components are required!
 
 ## Keyboard layout
 
